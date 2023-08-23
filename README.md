@@ -1,6 +1,6 @@
 ### Hi there, I'm Benoit 👋
 
-I'm an ecologist and data scientist at the French Office for Biodiversity ([OFB](https://www.ofb.gouv.fr/)) based in Normandy🐄, France 🇫🇷.
+I'm an ecologist and a data scientist at the French Office for Biodiversity ([OFB](https://www.ofb.gouv.fr/)) based in Normandy🐄, France 🇫🇷.
 
 <!--
 **richaben/richaben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
